@@ -60,4 +60,10 @@ Você pode modificar os seguintes parâmetros:
 - Tamanho da sequência LSTM (padrão: 7 dias)
 - Proporção de treino/teste (padrão: 80/20)
 - Número de épocas do treinamento LSTM (padrão: 50)
-- Tamanho do batch (padrão: 32) 
+- Tamanho do batch (padrão: 32)
+
+![Imagem do WhatsApp de 2025-03-31 à(s) 23 43 12_e7f521c8](https://github.com/user-attachments/assets/4f6d8849-d5fa-40db-a876-1ca51b4d046a)
+![Imagem do WhatsApp de 2025-03-31 à(s) 23 47 43_e19371f1](https://github.com/user-attachments/assets/71e209ee-39f6-4d0d-9798-b6d751f7bfdd)
+![Imagem do WhatsApp de 2025-03-31 à(s) 23 47 54_ac2858f1](https://github.com/user-attachments/assets/6d913055-5bc8-421f-b4c7-d7140c3fecfc)
+
+
